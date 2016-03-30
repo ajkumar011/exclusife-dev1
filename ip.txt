@@ -1,0 +1,1181 @@
+------------------------------------------------------------------------------ 
+System Name: ws-54 Ankush 
+Ankush-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Ankush-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82579V Gigabit Network Connection
+   Physical Address. . . . . . . . . : 4C-72-B9-26-97-97
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::3461:54f4:a410:97da%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.140(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 9:38:09 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 3:38:10 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 239891129
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-17-EC-67-89-4C-72-B9-26-97-97
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{BA936F18-FBC2-4CC2-BB3F-8F8C105AFE9E}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: WS-55 Virpal 
+Rishika-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Rishika-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-5C-7E-88
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::51fa:a703:9387:81b7%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.59(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:02:03 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:02:03 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 242250172
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-74-93-61-70-71-BC-5C-7E-88
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{B18CD555-9246-4004-9C45-8FCADF52BE4C}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: WS-56 GAURAV 
+SandeepS-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : SandeepS-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-BE-05-68
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::6171:42bd:fd91:d902%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.159(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:20:19 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:20:18 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 242250172
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-15-83-92-94-70-71-BC-BE-05-68
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{3E6D3804-8BD2-48E4-9AC3-B67642FF5598}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: ws-57 
+RajivR-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : RajivR-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-42-B4-F3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::6dd5:777:a1:f1b7%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.103(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:09:21 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:09:22 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 191918524
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-14-F4-0A-70-70-71-BC-42-B4-F3
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{7D744613-4638-42B7-9D3B-7E4CDB1CB13E}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: ws-57 Nidhi 
+RajivR-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : RajivR-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-42-B4-F3
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::6dd5:777:a1:f1b7%14(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.103(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:09:21 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:09:21 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 191918524
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-14-F4-0A-70-70-71-BC-42-B4-F3
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{7D744613-4638-42B7-9D3B-7E4CDB1CB13E}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: ws5 deepu 
+Deepu-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Deepu-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-6C-46-E9
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.3.132(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:13:54 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:13:55 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{6390F237-53FC-46E7-813D-5FFC2C01DF74}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: Ajay Sharma And w1-59 
+AniketK-Rf
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AniketK-Rf
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : E0-69-95-0D-F5-91
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::2c12:4276:cfaa:b75a%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.137(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:07:06 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:07:06 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 249588117
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-15-19-C5-94-E0-69-95-0D-F5-91
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       4.2.2.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{FF449344-8060-4210-8AA1-E5ABC2AEFB67}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: akshit ws-50 
+RajniK-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : RajniK-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-BE-06-83
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.3.145(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:13:04 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:13:03 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   Primary WINS Server . . . . . . . : 192.168.2.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{1BA4E092-8932-42E2-A01A-1C7F6EE4CF65}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: ratnesh ws-80 
+Gaurav-Kumar
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Gaurav-Kumar
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82579V Gigabit Network Connection
+   Physical Address. . . . . . . . . : 38-60-77-DF-5B-4C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::98a4:9017:2ff8:b2e1%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.2.220(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 12:54:58 PM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 6:54:58 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 238575735
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-19-2C-BB-2C-38-60-77-DF-5B-4C
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{4B451C68-F9BA-47E4-A85B-7CAA87129CBE}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: Nishant WS-79 
+Shiv-Prakash
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Shiv-Prakash
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-0E-4E-97
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : D-Link DFE-520TX PCI Fast Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-21-91-79-8C-39
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::2037:d34:cc3f:5320%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.181(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:35:38 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:35:38 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 234889617
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-17-61-66-01-00-21-91-79-8C-39
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{2894E7C8-5BDE-4C37-839A-F71116BF69E8}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{6E42E1B8-68D3-4912-A726-E0C115FE78D0}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: kalawati ws-78 
+Nishant-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Nishant-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : E0-69-95-46-00-74
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c4c8:c8de:7f40:78b8%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.105(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:25:20 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:25:21 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 249588117
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-16-F9-EA-4A-E0-69-95-46-00-74
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{0F8C8D0B-E114-43EC-813C-5C1C0013FB36}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: Surbhi ws 67 
+Ajeet-PC
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Ajeet-PC
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : D-Link DFE-520TX PCI Fast Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-1E-58-A7-61-93
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f43d:f5c0:5dcc:97a%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.211(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:58:06 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:58:06 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 318774872
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1B-8D-C1-0D-00-1C-C0-A3-31-00
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82567LM-2 Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-1C-C0-A3-31-00
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{9EAA4E60-9DD9-4AF5-99D1-50F16515A246}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{A33EAFE5-4D42-4901-9070-C02BC32D26EC}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: Ati ws65 
+Sosheel-RF
+------------------------------------------------------------------------------ 
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Sosheel-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82579LM Gigabit Network Connection
+   Physical Address. . . . . . . . . : 4C-72-B9-26-96-C7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8a4:b699:1f4a:20c5%15(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.164(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:31:15 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:31:15 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 357331641
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-17-D6-19-25-4C-72-B9-26-96-C7
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{5AA8E798-A936-4EB2-94D0-322980A90862}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+System Name: garima ws141 
+WS-141
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : WS-141
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82579V Gigabit Network Connection
+   Physical Address. . . . . . . . . : 00-27-0E-14-C6-79
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c11a:d402:12d3:5f90%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.2.115(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 9:50:15 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 3:50:15 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 234891022
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1D-9D-82-DD-00-27-0E-14-C6-79
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{13691543-45E4-4C07-A21C-7E7E87D3AFF0}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: sucheta ws 66 
+AitA-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : AitA-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-42-B4-E2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.3.151(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:15:29 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:15:28 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{A4587BAB-1111-4F75-8EF6-9211B2A23B6B}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: Ajay Kumar Sharma ws-58 
+Pulkit-EX
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Pulkit-EX
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : D-Link DFE-520TX PCI Fast Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-1E-58-A7-53-84
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-63-5A-1C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::340d:f3c0:c8a9:f279%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.112(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 9:56:29 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 3:56:29 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 175141308
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-88-BD-7A-70-71-BC-63-5A-1C
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{F92CE6F0-B911-439B-928E-F1EBE6D747C7}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter isatap.{FB356770-BE3A-4FE3-9976-3C3774DE6812}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter #2
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: abhayraj ws60 
+Harjot-Design
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Harjot-Design
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 38-60-77-0D-2B-3B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::43b:de71:c9d5:e4e8%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.20(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 9:39:31 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 3:39:30 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 238575735
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-16-89-D1-F8-38-60-77-0D-2B-3B
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       4.2.2.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{C2ABA0C3-9C24-43EE-9D1D-7505ED447655}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: himanshu saxena ws51 
+JitendraK-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : JitendraK-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82579V Gigabit Network Connection
+   Physical Address. . . . . . . . . : 4C-72-B9-26-96-99
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::f979:c416:2486:4f8d%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.125(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 3:45:20 PM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 9:47:13 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 239891129
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-17-D0-BC-46-4C-72-B9-26-96-99
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{5AAFD333-B847-4875-8402-C936C2D250D1}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: Sunder Singh ws61 
+Sunder-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Sunder-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : E0-69-95-0D-F4-30
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::acac:2042:6b6f:1e11%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.52(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 10:03:25 AM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 4:03:25 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 182479253
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-18-38-14-99-E0-69-95-0D-F4-30
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{78E29A81-CFF6-4E98-98B1-291862EF3CA0}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: agam gupta ws81 
+SandeepS-BD
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : SandeepS-BD
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : 70-71-BC-5C-7E-52
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::a12c:7afa:9a82:5cce%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.3.109(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Tuesday, October 20, 2015 9:55:23 PM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 8:26:50 AM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 242250172
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-19-B2-68-38-70-71-BC-5C-7E-52
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{1AFFA65E-51CA-4183-B0DE-0F9E19ECED24}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: praveen kumar ws-83 
+HarishPal-RF
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : HarishPal-RF
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) 82578DC Gigabit Network Connection
+   Physical Address. . . . . . . . . : E0-69-95-01-AD-1A
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.3.161(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Tuesday, October 20, 2015 9:38:38 PM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 3:38:38 AM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{8A29D872-86B2-4AE5-B034-EDAEEFC8C276}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+------------------------------------------------------------------------------ 
+System Name: ashutosh ws-82 
+Guarav-Dilip
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Guarav-Dilip
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Unknown
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : D-Link DFE-520TX PCI Fast Ethernet Adapter
+   Physical Address. . . . . . . . . : 00-21-91-54-02-4D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::60e5:1dee:a589:6d97%15(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.2.240(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Lease Obtained. . . . . . . . . . : Wednesday, October 21, 2015 3:49:29 PM
+   Lease Expires . . . . . . . . . . : Thursday, October 22, 2015 9:49:29 PM
+   Default Gateway . . . . . . . . . : 192.168.2.22
+   DHCP Server . . . . . . . . . . . : 192.168.2.33
+   DHCPv6 IAID . . . . . . . . . . . : 385884561
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-1C-B4-20-A1-00-21-91-54-02-4D
+   DNS Servers . . . . . . . . . . . : 8.8.4.4
+                                       8.8.8.8
+                                       4.2.2.2
+                                       121.242.190.180
+                                       121.242.190.211
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter isatap.{E9096318-4C24-45FA-8D13-129EB60F2A23}:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft ISATAP Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Teredo Tunneling Pseudo-Interface:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Teredo Tunneling Pseudo-Interface
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
